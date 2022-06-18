@@ -1,1 +1,1 @@
-![Alt text](</frontend/uploads/README img/Picnic Market.gif> 'Optional title')
+![Alt text](</frontend/README img/Picnic Market.gif> 'Optional title')
