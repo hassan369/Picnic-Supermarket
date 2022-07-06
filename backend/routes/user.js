@@ -60,6 +60,7 @@ userRouter.post(
       name: req.body.name,
       email: req.body.email,
       password: req.body.password,
+      isAdmin: true,
     });
     const newUser = await user.save();
     if (newUser) {
